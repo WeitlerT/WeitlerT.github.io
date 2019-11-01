@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dbyll
 =====
 
@@ -35,3 +36,9 @@ Demo: http://dbtek.github.io/dbyll/
 ### License
 - [MIT](http://opensource.org/licenses/MIT)
 
+=======
+# WeitlerT.github.io
+---
+permalink: /index.html
+---
+>>>>>>> 2fff98e0345e90de6aa5db22517418ccecddd8b3

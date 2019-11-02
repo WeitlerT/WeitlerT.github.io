@@ -24,7 +24,7 @@ description              : "Mobile Computing Portfolio"
 url                      : "https://weitlert.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/sheridan.png
+teaser                   : #"/assets/images/sheridan.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -298,3 +298,10 @@ defaults:
       comments: # true
       share: true
       related: true
+ # _pages
+ - scope:
+    path: ""
+    type: pages
+   values:
+    layout: single
+    author_profile: true

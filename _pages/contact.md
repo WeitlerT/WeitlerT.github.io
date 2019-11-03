@@ -1,8 +1,9 @@
 ---
-title: "Contact"
+title: "Contact me"
 permalink: /contact/
 #header:
 #  image: "/assets/images/sheridans.png"
 ---
 
-You can contact me here
+Email: tweitler@gmail.com
+Phone: 647-888-9941

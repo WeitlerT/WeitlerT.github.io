@@ -25,7 +25,7 @@ url                      : "https://weitlert.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : #"/assets/images/sheridan.png"
-logo                     : /assets/images/home.png
+logo                     : #/assets/images/home.png
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

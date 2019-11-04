@@ -1,5 +1,5 @@
 ---
-title: "Contact me"
+title: "Contact info"
 permalink: /contact/
 #header:
 #  image: "/assets/images/sheridans.png"

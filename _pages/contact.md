@@ -8,3 +8,4 @@ permalink: /contact/
 Email: tweitler@gmail.com
 
 Phone: 647-888-9941
+LinkedIn: https://www.linkedin.com/in/tweitler/

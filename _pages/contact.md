@@ -10,4 +10,4 @@ To contact me please feel free to use any of the information listed below. I che
 
 **Phone:** 647-888-9941
 
-**LinkedIn Message:** [Link to my LinkedIn](https://www.linkedin.com/in/tweitler/)
+**LinkedIn Message:** [My LinkedIn Profile](https://www.linkedin.com/in/tweitler/)

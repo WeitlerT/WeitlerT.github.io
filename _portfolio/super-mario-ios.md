@@ -1,6 +1,6 @@
 ---
 title: "Super Mario iOS"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+excerpt: "A game made in xCode with a group in year 2. Utilizing SpriteKit, custom physics, and randomly generated stages."
 header:
   image: #/assets/images/unsplash-gallery-image-1.jpg
   teaser: #assets/images/unsplash-gallery-image-1-th.jpg

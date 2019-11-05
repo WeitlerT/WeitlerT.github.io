@@ -1,26 +1,28 @@
 ---
-title: "Self Driving Car - Matlab"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+title: "Self-Driving Car - Matlab"
+excerpt: "A group project from year 3. We trained a model through Matlab to enable our car to follow a track."
 header:
-  image: #/assets/images/unsplash-gallery-image-1.jpg
-  teaser: #assets/images/unsplash-gallery-image-1-th.jpg
+  image: #/assets/images/mariosplash.png
+  teaser: /assets/images/selfdriving.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/selfdriving.jpg
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    text: "Back-End Developer, Data management"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "For this project my partner and I worked together on almost all tasks. This included gathering the images for training, training the model, and programming the car to actually drive/stop."
+  - title: "Technologies"
+    text: "iOS, Mobile, iPhone, iPad"
 gallery:
-  - url: #/assets/images/unsplash-gallery-image-1.jpg
-    image_path: #assets/images/unsplash-gallery-image-1-th.jpg
-    alt: #"placeholder image 1"
-  - url: #/assets/images/unsplash-gallery-image-2.jpg
-    image_path: #assets/images/unsplash-gallery-image-2-th.jpg
-    alt: #"placeholder image 2"
-  - url: #/assets/images/unsplash-gallery-image-3.jpg
-    image_path: #assets/images/unsplash-gallery-image-3-th.jpg
-    alt: #"placeholder image 3"
+  - url: /assets/images/mario1.png
+    image_path: /assets/images/mario1.png
+    alt: "Mario Level 1"
+  - url: /assets/images/mariolava.png
+    image_path: /assets/images/mariolava.png
+    alt: "Mario Lava"
+  - url: /assets/images/mariojumping.png
+    image_path: /assets/images/mariojumping.png
+    alt: "Mario Jump"
 ---
 
 Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.

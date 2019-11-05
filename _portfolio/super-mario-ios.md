@@ -12,10 +12,10 @@ sidebar:
   - title: "Responsibilities"
     text: "On this project I focused primarily on the storyboard/graphics for the game. This included refining hitboxes for both enemies and player."
 gallery:
-  - url: #/assets/images/unsplash-gallery-image-1.jpg
+  - url: https://nighthawk469.github.io/assets/img/mario/mario.png
     image_path: #assets/images/unsplash-gallery-image-1-th.jpg
     alt: #"placeholder image 1"
-  - url: #/assets/images/unsplash-gallery-image-2.jpg
+  - url: https://nighthawk469.github.io/assets/img/mario/mariolava.png
     image_path: #assets/images/unsplash-gallery-image-2-th.jpg
     alt: #"placeholder image 2"
   - url: #/assets/images/unsplash-gallery-image-3.jpg

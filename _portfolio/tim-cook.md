@@ -15,6 +15,9 @@ sidebar:
   - title: #"Technologies"
     text: #"Matlab, Raspberry Pi"
 gallery:
+  - url: /assets/images/timcook.jpg
+    image_path: /assets/images/timcook.jpg
+    alt: #"Self Driving"
   - url: "https://pbs.twimg.com/media/DUO-dK-U8AAesHb.jpg"
     image_path: "https://pbs.twimg.com/media/DUO-dK-U8AAesHb.jpg"
     alt: #"Self Driving"

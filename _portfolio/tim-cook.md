@@ -1,6 +1,6 @@
 ---
 title: "Tim Cook Visit"
-excerpt: "A group project from year 3. We trained a model through Matlab to enable our car to follow a track."
+excerpt: "Tim Cook visiting our school to see what kind of work we were doing with iOS and mobile computing."
 header:
   image: #Image for the top goes here
   teaser: /assets/images/selfdriving.jpg

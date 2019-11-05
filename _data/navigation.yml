@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Portfolio"
+  - title: "Experiences"
     url: /portfolio/
   - title: "Contact"
     url: /contact/

@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/timcook.jpg
 sidebar:
   - title: #"Role"
-    image: #/assets/images/selfdriving.jpg
+    image: /assets/images/timcook.jpg
     image_alt: #"logo"
     text: #"Back-End Developer, Data management"
   - title: #"Responsibilities"

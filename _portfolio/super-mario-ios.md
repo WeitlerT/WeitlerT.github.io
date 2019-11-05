@@ -25,7 +25,7 @@ gallery:
     alt: "Mario Jump"
 ---
 
-A project done in xCode during my second year. We utilized SpriteKit and managed to implement our own type of physics for the game. We also managed to build a custom stage generation. The main objective of the game was to simply jump over obstacles and survive for as long as possible. Every time you jumped over something you would gain 1 score. High score was recorded locally on the device. We coded collision with enemies and the player so we can detect when to game over the player. The longer the game went on the faster the screen would scroll. A simple concept, but lots of fun to work on. This wouldn't be a game we would ever try to publish to the app store for obvious copyright reasons.
+A project done in xCode during my second year. We utilized SpriteKit and managed to implement our own type of physics for the game. There was a built in physics engine we could have used, but we wanted to try to make the player jump feel more floaty akin to how Mario jumps in other games. We also managed to build a custom stage generation. The main objective of the game was to simply jump over obstacles and survive for as long as possible. Every time you jumped over something you would gain 1 score. High score was recorded locally on the device. We coded collision with enemies and the player so we can detect when to game over the player. The longer the game went on the faster the screen would scroll. A simple concept, but lots of fun to work on. This wouldn't be a game we would ever try to publish to the app store for obvious copyright reasons.
 
 {% include gallery caption="Some images of the project. Including a lava stage and mario jumping." %}
 

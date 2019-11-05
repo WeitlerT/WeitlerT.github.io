@@ -1,6 +1,6 @@
 ---
 title: "AI/ML Fashion Project - Tensorflow"
-excerpt: "A group project from year 3. We trained a model through Matlab to enable our car to follow a track."
+excerpt: "A research team I was on for a fashion app that utilized machine learning. The primary platform used here was Tensorflow"
 header:
   image: #Image for the top goes here
   teaser: /assets/images/selfdriving.jpg

@@ -1,6 +1,6 @@
 ---
 title: "AI/ML Fashion Project - Tensorflow"
-excerpt: "A research team I was on for a fashion app that utilized machine learning. The primary platform used here was Tensorflow"
+excerpt: "A research team I was on for a fashion app that utilized machine learning. The primary platform used was Tensorflow"
 header:
   image: #Image for the top goes here
   teaser: /assets/images/selfdriving.jpg
@@ -8,7 +8,7 @@ sidebar:
   - title: "Role"
     image: /assets/images/selfdriving.jpg
     image_alt: "logo"
-    text: "Back-End Developer, Data management"
+    text: "Scripting, Training Images, iOS Development"
   - title: "Responsibilities"
     text: "For this project my partner and I worked together on almost all tasks. This included gathering the images for training, training the model, and programming the car to actually drive/stop."
   - title: "Technologies"

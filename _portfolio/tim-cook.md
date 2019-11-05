@@ -9,7 +9,8 @@ sidebar:
     image: /assets/images/timcook.jpg
     image_alt: #"logo"
     text: "January 23rd 2018"
-  - title: #"Responsibilities"
+  - title: "Tags"
+    tags: [iOS, Apple, Tim Cook]
     text: #"For this project my partner and I worked together on almost all tasks. This included gathering the images for training, training the model, and programming the car to actually drive/stop."
   - title: #"Technologies"
     text: #"Matlab, Raspberry Pi"

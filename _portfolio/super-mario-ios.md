@@ -2,7 +2,7 @@
 title: "Super Mario iOS"
 excerpt: "A group project from year 2. Game was made in xCode and utilizes SpriteKit, custom physics, and randomly generated stages."
 header:
-  image: /assets/images/marioheader.png
+  image: #/assets/images/marioheader.png
   teaser: /assets/images/mariosplash.png
 sidebar:
   - title: "Role"
@@ -30,3 +30,6 @@ A project done in xCode during my second year. We utilized SpriteKit and managed
 {% include gallery caption="Some images of the project. Including a lava stage and mario jumping." %}
 
 ![Mario Running](https://media.giphy.com/media/l3q2t5WmRC7wG97nW/giphy.gif)
+
+
+We had a lot of fun experimenting with animations as well as particle effects like the one shown in the above gif.

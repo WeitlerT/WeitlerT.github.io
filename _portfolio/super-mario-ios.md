@@ -2,7 +2,7 @@
 title: "Super Mario iOS"
 excerpt: "A group project from year 2. Game was made in xCode and utilizes SpriteKit, custom physics, and randomly generated stages."
 header:
-  image: #/assets/images/mariosplash.png
+  image: /assets/images/marioheader.png
   teaser: /assets/images/mariosplash.png
 sidebar:
   - title: "Role"
@@ -25,10 +25,10 @@ gallery:
     alt: "Mario Jump"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+A project done in xCode during my second year. We utilized SpriteKit and managed to implement our own type of physics for the game. We also managed to build a custom stage generation. The main objective of the game was to simply jump over obstacles and survive for as long as possible. Every time you jumped over something you would gain 1 score. High score was recorded locally on the device. We coded collision with enemies and the player so we can detect when to game over the player. The longer the game went on the faster the screen would scroll. A simple concept, but lots of fun to work on. This wouldn't be a game we would ever try to publish to the app store for obvious copyright reasons.
 
 {% include gallery caption="Some images of the project. Including a lava stage and mario jumping." %}
 
 ![Mario Running](https://media.giphy.com/media/l3q2t5WmRC7wG97nW/giphy.gif)
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+We had a lot of fun experimenting with animations as well as particle effects like the one shown in the above gif.

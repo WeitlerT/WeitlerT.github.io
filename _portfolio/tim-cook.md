@@ -30,6 +30,8 @@ gallery:
 
 ---
 
-Tim Cook the CEO of Apple visited Sheridan College to see the innovative mobile application projects we had been working on in the Sheridan Computer Science - Mobile Computing program. He asked us about our opinions on utilizing xCode and writing in Swift and wanted to know if we had any suggestions to improve either.
+Tim Cook the CEO of Apple visited Sheridan College to see the innovative mobile application projects we had been working on in the Sheridan Computer Science - Mobile Computing program. He asked us about our opinions on using xCode, programming with Swift, and wanted to know if we had any suggestions to improve either.
 
 {% include gallery caption="Some pictures from Tim Cook's visit to our class" %}
+
+It was definitely one of the most memorable moments from my time at Sheridan.

@@ -1,16 +1,16 @@
 ---
 title: "Super Mario iOS"
-excerpt: "A game made in xCode with a group in year 2. Utilizing SpriteKit, custom physics, and randomly generated stages."
+excerpt: "A group project from year 2. Game was made in xCode and utilizes SpriteKit, custom physics, and randomly generated stages."
 header:
   image: #/assets/images/unsplash-gallery-image-1.jpg
   teaser: #assets/images/unsplash-gallery-image-1-th.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: https://nighthawk469.github.io/assets/img/mario/mario.png
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    text: "Front-End Developer"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "On this project I focused primarily on the storyboard/graphics for the game. This included refining hitboxes for both enemies and player."
 gallery:
   - url: #/assets/images/unsplash-gallery-image-1.jpg
     image_path: #assets/images/unsplash-gallery-image-1-th.jpg

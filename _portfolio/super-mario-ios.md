@@ -2,15 +2,15 @@
 title: "Super Mario iOS"
 excerpt: "A group project from year 2. Game was made in xCode and utilizes SpriteKit, custom physics, and randomly generated stages."
 header:
-  image: #/assets/images/unsplash-gallery-image-1.jpg
-  teaser: #assets/images/unsplash-gallery-image-1-th.jpg
+  image: /assets/images/mariosplash.png
+  teaser: /assets/images/mariosplash.png
 sidebar:
   - title: "Role"
     image: /assets/images/mariosplash.png
     image_alt: "logo"
     text: "Front-End Developer"
   - title: "Responsibilities"
-    text: "On this project I focused primarily on the storyboard/graphics for the game. This included refining hitboxes for both enemies and player."
+    text: "On this project I focused primarily on the storyboard/graphics for the game. This included refining hitboxes for both enemies and player as well as textures used."
 gallery:
   - url: /assets/images/mario1.png
     image_path: /assets/images/mario1.png

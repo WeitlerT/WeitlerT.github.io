@@ -3,7 +3,7 @@ title: "Tim Cook Visit"
 excerpt: "Tim Cook visiting our school to see what kind of work we were doing with iOS and mobile computing."
 header:
   image: #Image for the top goes here
-  teaser: /assets/images/selfdriving.jpg
+  teaser: /assets/images/timcook.jpg
 sidebar:
   - title: #"Role"
     image: #/assets/images/selfdriving.jpg

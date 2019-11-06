@@ -3,10 +3,10 @@ title: "Chatbot - IBM Watson"
 excerpt: "Creating a simple bot with IBM Watson for our Cognitive Computing course."
 header:
   image: #Image for the top goes here
-  teaser: "https://1.cms.s81c.com/sites/default/files/2019-03-01/ladder_home_image_card_aios_608x304_70.jpg"
+  teaser: "https://www.uctoday.com/wp-content/uploads/2018/10/BMWatson.jpg"
 sidebar:
   - title: "Role"
-    image: "https://1.cms.s81c.com/sites/default/files/2019-03-01/ladder_home_image_card_aios_608x304_70.jpg"
+    image: "https://www.uctoday.com/wp-content/uploads/2018/10/BMWatson.jpg"
     image_alt: "logo"
     text: "Scripting, Training Images, iOS Development"
   - title: "Responsibilities"

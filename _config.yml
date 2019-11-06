@@ -18,14 +18,14 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Tyler Weitler"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "A site to share some of my experiences in comp sci."
 name                     : "Tyler Weitler"
 description              : "Mobile Computing Portfolio"
 url                      : "https://weitlert.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : #"/assets/images/sheridan.png"
-logo                     : #/assets/images/home.png
+logo                     : /assets/images/home.png
 masthead_title           : "Homepage"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

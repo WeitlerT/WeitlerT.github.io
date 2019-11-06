@@ -33,4 +33,4 @@ A project done in xCode during my second year. We utilized SpriteKit and managed
 
 
 We had a lot of fun experimenting with animations as well as particle effects like the one shown in the above gif. For some more detail check out the presentation we did on it
-[here](https://docs.google.com/presentation/d/1Gmo6797IrMxXTjoUhTyiV7HSOl1Rv0CcEZrTkP8iQRc/edit?usp=sharing)
+[here](https://docs.google.com/presentation/d/1Gmo6797IrMxXTjoUhTyiV7HSOl1Rv0CcEZrTkP8iQRc/edit?usp=sharing).

@@ -22,6 +22,6 @@ gallery:
     alt: "Instructions for controls"
 ---
 
-During our 3D gamification course we learnt how to create basic objects and games using OpenGL, some linear alegbra, and some C/C++. This project in particular used some simple objects, but required AABB (Axis-Aligned Bounding Box) collision to know where the projectile landed on the board. Depending on where it landed it would calculate the score and add to the total. A pretty simple project, but quite a bit of work (collision took a while to get right). The project is public on my GitHub for anyone interested in checking out the code.
+During our 3D gamification course we learnt how to create basic objects and games using OpenGL, some linear algebra, and some C/C++. This project in particular used some simple objects, but required AABB (Axis-Aligned Bounding Box) collision to know where the projectile landed on the board. Depending on where it landed it would calculate the score and add to the total. A pretty simple project, but quite a bit of work (collision took a while to get right). The project is public on my GitHub for anyone interested in checking out the code.
 
 {% include gallery caption="An image of the game as well as the controls listed." %}

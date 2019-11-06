@@ -1,5 +1,5 @@
 ---
-title: "Chatbot - IBM Watson"
+title: "Chatbot - IBM Watson WIP"
 excerpt: "Creating a simple bot with IBM Watson for our Cognitive Computing course."
 header:
   image: #Image for the top goes here

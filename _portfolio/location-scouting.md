@@ -1,5 +1,5 @@
 ---
-title: "Location Scouting"
+title: "Location Scouting WIP"
 excerpt: "A community I started with one of my best friends. The site was built from scratch, same goes with the forums."
 header:
   image: #Image for the top goes here

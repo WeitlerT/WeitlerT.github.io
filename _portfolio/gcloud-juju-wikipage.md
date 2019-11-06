@@ -1,5 +1,5 @@
 ---
-title: "Google Cloud - Wiki Page"
+title: "Google Cloud - Wiki Page WIP"
 excerpt: "A project for a telecommunications course. Hosting a public wiki page using Google Cloud, Juju, and Linux."
 header:
   image: #Image for the top goes here

@@ -3,10 +3,10 @@ title: "QA Analyst - Eyecarrot Innovations"
 excerpt: "While at Eyecarrot for my co-op I was tasked with creating a fully automated QA testing system using Jenkins."
 header:
   image: #Image for the top goes here
-  teaser: "http://www.paulbenwell.com/wp-content/uploads/2016/04/eyecarrot-logo-horz.png"
+  teaser: /assets/images/eyecarrot.png
 sidebar:
   - title: "Role"
-    image: "http://www.paulbenwell.com/wp-content/uploads/2016/04/eyecarrot-logo-horz.png"
+    image: /assets/images/eyecarrot.png
     image_alt: "logo"
     text: "Scripting, Training Images, iOS Development"
   - title: "Responsibilities"

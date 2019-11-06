@@ -1,5 +1,5 @@
 ---
-title: "QA Analyst - Eyecarrot Innovations (Internship)"
+title: "QA Analyst - Eyecarrot Innovations"
 excerpt: "While at Eyecarrot for my internship I was tasked with creating a fully automated QA testing system."
 header:
   image: #Image for the top goes here

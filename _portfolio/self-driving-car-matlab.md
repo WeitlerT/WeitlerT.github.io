@@ -1,5 +1,5 @@
 ---
-title: "Self-Driving Car - Matlab"
+title: "Matlab/ML - Self-Driving Car"
 excerpt: "A group project from year 3. We trained a model through Matlab to enable our car to follow a track."
 header:
   image: #Image for the top goes here

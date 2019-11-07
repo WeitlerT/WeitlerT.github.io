@@ -1,5 +1,5 @@
 ---
-title: "Chatbot - IBM Watson WIP"
+title: "Chatbot - IBM Watson"
 excerpt: "Creating a bot with IBM Watson and Node-RED for our Cognitive Computing course."
 header:
   image: #Image for the top goes here
@@ -8,21 +8,46 @@ sidebar:
   - title: "Role"
     image: "https://www.uctoday.com/wp-content/uploads/2018/10/BMWatson.jpg"
     image_alt: "logo"
-    text: "Scripting, Training Images, iOS Development"
+    text: "Bot setup, Node-RED/Slack Hook-up"
   - title: "Responsibilities"
-    text: "For this project my partner and I worked together on almost all tasks. This included gathering the images for training, training the model, and programming the car to actually drive/stop."
+    text: "For this application I setup a simple bot with Watson that was meant to help fix a user's printer issues. It was hooked up to Slack through Node-RED so a user could communicate with it."
   - title: "Technologies"
-    text: "Matlab, Raspberry Pi"
+    text: "Watson, IBM, Node-RED"
 gallery:
-  - url: /assets/images/selfdriving.jpg
-    image_path: /assets/images/selfdriving.jpg
-    alt: "Self Driving"
+  - url: /assets/images/Watson/image1.png
+    image_path: /assets/images/Watson/image1.png
+    alt: #"Self Driving"
+  - url: /assets/images/Watson/image2.png
+    image_path: /assets/images/Watson/image2.png
+    alt: #"Self Driving"
+  - url: /assets/images/Watson/image3.png
+    image_path: /assets/images/Watson/image3.png
+    alt: #"Self Driving"
+  - url: /assets/images/Watson/image4.png
+    image_path: /assets/images/Watson/image4.png
+    alt: #"Self Driving"
+  - url: /assets/images/Watson/image5.png
+    image_path: /assets/images/Watson/image5.png
+    alt: #"Self Driving"
+  - url: /assets/images/Watson/image6.png
+    image_path: /assets/images/Watson/image6.png
+    alt: #"Self Driving"
+  - url: /assets/images/Watson/image7.png
+    image_path: /assets/images/Watson/image7.png
+    alt: #"Self Driving"
+  - url: /assets/images/Watson/image8.png
+    image_path: /assets/images/Watson/image8.png
+    alt: #"Self Driving"
+  - url: /assets/images/Watson/image9.png
+    image_path: /assets/images/Watson/image9.png
+    alt: #"Self Driving"
+  - url: /assets/images/Watson/image10.png
+    image_path: /assets/images/Watson/image10.png
+    alt: #"Self Driving"
 ---
 
-During our AI course we were tasked with building some type of project utilizing Matlab and AI/ML techologies. My partner Nick happened to have a Raspberry Pi car kit which we decided we could use for a small scale self-driving car project. It came equipped with a camera which we wanted to use to stream a live feed from the car to our laptop running Matlab. We decided we would attempt to have the car move around a track and stop if it found a boundary (in this case our boundry was just white sheets of paper).
+For our Cognitive Computing course we had an assignment to set up a bot using IBM Watson. The bot was meant to solve a problem that a user may have so in my case I created one that was meant to help a user with printer problems. I set up intents which are essentially purposes/goals that are expressed by the users input. So an example intent may be printer_brand which could be a user asking about a certain brand of printer. 
 
-{% include gallery caption="Above is an image of the final product" %}
+{% include gallery caption="A few images of intents I set up as well as the Node-RED layout and Slack test chat." %}
 
-We took a bunch of different images of the carpet in the lab we were working in as well as a bunch of images of paper on it. We made sure to take these pictures with the car camera because that would be the same view the car would have while driving. We used several dozen images to train our model and eventually had programmed the car to go and stop when it found a boundary. An image below shows what the car looked like. The box taped to the front of the car was used to mount the camera on because simply put we didn't have a huge budget for the project. For more details please check out the video below.
-
-For a link to the full video for this project please click [here](https://www.youtube.com/watch?v=KHnYkcCm28w). All credit for the video goes to my partner, [Nick Crawford](https://www.linkedin.com/in/nickdcrawford/).
+Once we set up proper intents and responses we were tasked with hooking it up using Node-RED and slack. Our bot would be able to communicate through Slack just as it would through the IBM web interface. It was quick and simple to deploy and even easier to use.

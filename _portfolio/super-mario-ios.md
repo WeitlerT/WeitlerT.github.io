@@ -1,5 +1,5 @@
 ---
-title: "Super Mario iOS"
+title: "iOS - Super Mario Game"
 excerpt: "A group project from year 2. Game was made in xCode and utilizes SpriteKit, custom physics, and randomly generated stages."
 header:
   image: #/assets/images/marioheader.png

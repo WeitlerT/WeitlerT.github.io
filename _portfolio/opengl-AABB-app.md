@@ -1,5 +1,5 @@
 ---
-title: "OpenGL Bullseye Project"
+title: "OpenGL - Bullseye Project"
 excerpt: "One of my final assignments for my 3D gamification course. Utilizes OpenGL with AABB collision."
 header:
   image: #Image for the top goes here

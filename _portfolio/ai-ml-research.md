@@ -14,14 +14,23 @@ sidebar:
   - title: "Technologies"
     text: "Tensorflow, Python, Machine Learning, iOS, Mobile Application"
 gallery:
-  - url: /assets/images/selfdriving.jpg
-    image_path: /assets/images/selfdriving.jpg
+  - url: /assets/images/ML/ex1.png
+    image_path: /assets/images/ML/ex1.png
     alt: #"Self Driving"
-  - url: /assets/images/selfdriving.jpg
-    image_path: /assets/images/selfdriving.jpg
+  - url: /assets/images/ML/ex2.png
+    image_path: /assets/images/ML/ex2.png
     alt: #"Self Driving"
-  - url: /assets/images/selfdriving.jpg
-    image_path: /assets/images/selfdriving.jpg
+  - url: /assets/images/ML/ex3.png
+    image_path: /assets/images/ML/ex3.png
+    alt: #"Self Driving"
+  - url: /assets/images/ML/ex4.png
+    image_path: /assets/images/ML/ex4.png
+    alt: #"Self Driving"
+  - url: /assets/images/ML/ex5.png
+    image_path: /assets/images/ML/ex5.png
+    alt: #"Self Driving"
+  - url: /assets/images/ML/ex6.png
+    image_path: /assets/images/ML/ex6.png
     alt: #"Self Driving"
 ---
 

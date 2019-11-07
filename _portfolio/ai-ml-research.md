@@ -8,7 +8,7 @@ sidebar:
   - title: "Role"
     image: "https://sanet.pics/storage-5/0619/ij6udU0NrgCjdIdblyoRlle0tCakXTXf.png"
     image_alt: "logo"
-    text: "Scripting, Training Model, iOS Development"
+    text: "Scripting, Training Model, iOS Development, Presentation Prep"
   - title: "Responsibilities"
     text: "Responsibilities were split between my partner and I because we were both trying to learn the same things about machine learning. We both trained the model and worked on the python scripts as well as the iOS app. I usually put together the presentations when we had a meeting with the clients."
   - title: "Technologies"

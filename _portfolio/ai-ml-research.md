@@ -1,6 +1,6 @@
 ---
-title: "AI/ML Fashion Project - Tensorflow WIP"
-excerpt: "A research team I was on for a fashion app that utilized machine learning. The primary platform used was Tensorflow"
+title: "AI/ML Fashion Project - Tensorflow"
+excerpt: "A research team I was on for a fashion app that utilized machine learning. The primary platform used was Tensorflow."
 header:
   image: #Image for the top goes here
   teaser: "https://sanet.pics/storage-5/0619/ij6udU0NrgCjdIdblyoRlle0tCakXTXf.png"

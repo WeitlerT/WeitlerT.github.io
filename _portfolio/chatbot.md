@@ -1,6 +1,6 @@
 ---
 title: "Chatbot - IBM Watson WIP"
-excerpt: "Creating a simple bot with IBM Watson for our Cognitive Computing course."
+excerpt: "Creating a bot with IBM Watson and Node-RED for our Cognitive Computing course."
 header:
   image: #Image for the top goes here
   teaser: "https://www.uctoday.com/wp-content/uploads/2018/10/BMWatson.jpg"

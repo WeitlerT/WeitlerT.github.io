@@ -46,8 +46,8 @@ gallery:
     alt: #"Self Driving"
 ---
 
-For our Cognitive Computing course we had an assignment to set up a bot using IBM Watson. The bot was meant to solve a problem that a user may have so in my case I created one that was meant to help a user with printer problems. I set up intents which are essentially purposes/goals that are expressed by the users input. So an example intent may be printer_brand which could be a user asking about a certain brand of printer. 
+For our Cognitive Computing course we had an assignment to set up a bot using IBM Watson. The bot was meant to solve a problem that a user may have so in my case I created one that was meant to help a user with printer problems. I set up intents which are essentially purposes/goals that are expressed by the users input. So an example intent may be printer_brand which could be a user asking about a certain brand of printer. There are also entities which are meant to represent information in the user input that may be relevant to the user purpose/goal. The IBM docs explains it in a simple way: Intents represent verbs (what the user wants to do) and entities are like nouns (the object of, or the context for, a particular action).
 
-{% include gallery caption="A few images of intents I set up as well as the Node-RED layout and Slack test chat." %}
+{% include gallery caption="A few images of intents/entities I set up as well as the Node-RED layout and Slack test chat." %}
 
-Once we set up proper intents and responses we were tasked with hooking it up using Node-RED and slack. Our bot would be able to communicate through Slack just as it would through the IBM web interface. It was quick and simple to deploy and even easier to use.
+Once I set up proper intents and responses I hooked it up to Slack using Node-RED. The bot would be able to communicate through Slack just as it would through the IBM web interface. It was quick and simple to deploy and even easier to use.

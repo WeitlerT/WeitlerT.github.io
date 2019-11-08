@@ -10,7 +10,7 @@ sidebar:
     image_alt: "logo"
     text: "Front/Back-End Development"
   - title: "Responsibilities"
-    text: "For this project my partner and I worked together on almost all tasks. This included gathering the images for training, training the model, and programming the car to actually drive/stop."
+    text: "Creating the storyboard and creating a functional demo."
   - title: "Technologies"
     text: "Android, Android Studio, Mobile"
 gallery:

@@ -1,5 +1,5 @@
 ---
-title: "Android App - Periodic Table"
+title: "Android - Periodic Table"
 excerpt: "An android application I made with a classmate for our HCI class. We set out to make a simplified table with easy to read information."
 header:
   image: #Image for the top goes here
@@ -10,7 +10,7 @@ sidebar:
     image_alt: "logo"
     text: "Front/Back-End Development"
   - title: "Responsibilities"
-    text: "Creating the storyboard and creating a functional demo."
+    text: "Creating the storyboard and a functional demo."
   - title: "Technologies"
     text: "Android, Android Studio, Mobile"
 gallery:
@@ -28,10 +28,6 @@ gallery:
     alt: #"Self Driving"
 ---
 
-During our AI course we were tasked with building some type of project utilizing Matlab and AI/ML techologies. My partner Nick happened to have a Raspberry Pi car kit which we decided we could use for a small scale self-driving car project. It came equipped with a camera which we wanted to use to stream a live feed from the car to our laptop running Matlab. We decided we would attempt to have the car move around a track and stop if it found a boundary (in this case our boundry was just white sheets of paper).
+For our HCI course we had to create an application that would simplify a pre-existing concept. We figured the periodic table would be interesting to put into a mobile application format. A key part of this course was making an application that anyone could use with no prior experience or knowledge. In other words it has to be intuitive, functional, and most importantly simple to understand. We created a periodic table, color coated it, and gave each cell in the table an onClick action. When tapping on any of the elements you would be taken to a page explaining that element you tapped on. The screenshots below show the different pages of the application.
 
-{% include gallery caption="Above is an image of the final product" %}
-
-We took a bunch of different images of the carpet in the lab we were working in as well as a bunch of images of paper on it. We made sure to take these pictures with the car camera because that would be the same view the car would have while driving. We used several dozen images to train our model and eventually had programmed the car to go and stop when it found a boundary. An image below shows what the car looked like. The box taped to the front of the car was used to mount the camera on because simply put we didn't have a huge budget for the project. For more details please check out the video below.
-
-For a link to the full video for this project please click [here](https://www.youtube.com/watch?v=KHnYkcCm28w). All credit for the video goes to my partner, [Nick Crawford](https://www.linkedin.com/in/nickdcrawford/).
+{% include gallery caption="A few images of the application" %}

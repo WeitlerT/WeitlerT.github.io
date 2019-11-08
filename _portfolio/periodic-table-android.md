@@ -1,22 +1,31 @@
 ---
-title: "Android App - Periodic Table WIP"
-excerpt: "A community I started with one of my best friends. The site was built from scratch, same goes with the forums."
+title: "Android App - Periodic Table"
+excerpt: "An android application I made with a classmate for our HCI class. We set out to make a simplified table with easy to read information."
 header:
   image: #Image for the top goes here
-  teaser: /assets/images/surfhorizon.jpg
+  teaser: /assets/images/h1.png
 sidebar:
   - title: "Role"
-    image: /assets/images/surfhorizon.jpg
+    image: /assets/images/h1.png
     image_alt: "logo"
-    text: "Scripting, Training Images, iOS Development"
+    text: "Front/Back-End Development"
   - title: "Responsibilities"
     text: "For this project my partner and I worked together on almost all tasks. This included gathering the images for training, training the model, and programming the car to actually drive/stop."
   - title: "Technologies"
-    text: "Matlab, Raspberry Pi"
+    text: "Android, Android Studio, Mobile"
 gallery:
-  - url: /assets/images/selfdriving.jpg
-    image_path: /assets/images/selfdriving.jpg
-    alt: "Self Driving"
+  - url: /assets/images/HCI/i1.png
+    image_path: /assets/images/HCI/i1.png
+    alt: #"Self Driving"
+  - url: /assets/images/HCI/i2.png
+    image_path: /assets/images/HCI/i2.png
+    alt: #"Self Driving"
+  - url: /assets/images/HCI/i3.png
+    image_path: /assets/images/HCI/i3.png
+    alt: #"Self Driving"
+  - url: /assets/images/HCI/i4.png
+    image_path: /assets/images/HCI/i4.png
+    alt: #"Self Driving"
 ---
 
 During our AI course we were tasked with building some type of project utilizing Matlab and AI/ML techologies. My partner Nick happened to have a Raspberry Pi car kit which we decided we could use for a small scale self-driving car project. It came equipped with a camera which we wanted to use to stream a live feed from the car to our laptop running Matlab. We decided we would attempt to have the car move around a track and stop if it found a boundary (in this case our boundry was just white sheets of paper).

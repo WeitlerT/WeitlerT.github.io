@@ -3,10 +3,10 @@ title: "Android App - Periodic Table"
 excerpt: "An android application I made with a classmate for our HCI class. We set out to make a simplified table with easy to read information."
 header:
   image: #Image for the top goes here
-  teaser: /assets/images/HCI/h1.png
+  teaser: /assets/images/HCI/i1.png
 sidebar:
   - title: "Role"
-    image: /assets/images/HCI/h1.png
+    image: /assets/images/HCI/i1.png
     image_alt: "logo"
     text: "Front/Back-End Development"
   - title: "Responsibilities"

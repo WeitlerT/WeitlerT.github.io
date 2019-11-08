@@ -17,11 +17,20 @@ gallery:
   - url: /assets/images/Horizon/h1.png
     image_path: /assets/images/Horizon/h1.png
     alt: #"Self Driving"
+  - url: /assets/images/Horizon/h2.png
+    image_path: /assets/images/Horizon/h2.png
+    alt: #"Self Driving"
+  - url: /assets/images/Horizon/h3.png
+    image_path: /assets/images/Horizon/h3.png
+    alt: #"Self Driving"
+  - url: /assets/images/Horizon/h4.png
+    image_path: /assets/images/Horizon/h4.png
+    alt: #"Self Driving"
 ---
 
-Horizon actually began as a small passion project in 2014 that was just focused on my friends and I having a server to play on together. One day we decided to make our server public and people slowly started joining. The community slowly grew from just a few of us to dozens of us in a matter of days. As the player base grew we kept developing the server to make further improvements. 5 years later we are running multiple servers and still have 100s of unique players come onto our servers on a weekly basis. These days the server is mainly managed by my friend [Aziz](https://www.linkedin.com/in/abdulaziz-hasanain-b27489104/) who was also one of the founders.
+Horizon actually began as a small passion project in 2014 that was just focused on my friends and I having a server to play on together. One day we decided to make our server public and people slowly started joining. The community slowly grew from just a few of us to dozens in a matter of days. As the player base grew we kept developing the server to make further improvements. 5 years later we are running multiple servers and still have 100s of unique players come onto our servers on a weekly basis. These days the server is mainly managed by my friend [Aziz](https://www.linkedin.com/in/abdulaziz-hasanain-b27489104/) who was also one of the founders.
 
-It was never our intention to run a huge server, but it turned out pretty well and we got to meet a lot of interesting individuals. The server got to the size where we couldn't manage it with our small friend group alone so we started bringing others onto the team. During the time I still worked on the server I managed our staff team which mainly consisted of admins and moderators. Both admins and moderators were responsible for keeping the servers clean and safe for the players. We knew there would always be people trying to break rules so we figured we should always have staff online to watch out for them. We would interview people for staff positions to make sure they were a fine fit and we did our best finding people from different time-zones so we could try to have the servers covered nearly 24/7.
+It was never our intention to run a huge server, but it turned out pretty well and we got to meet a lot of interesting individuals from all over the world. The server got to the size where we couldn't manage it with our small friend group alone so we started bringing others onto the team. During the time I still worked on the server I managed our staff team which mainly consisted of admins and moderators. Both admins and moderators were responsible for keeping the servers clean and safe for the players. We knew there would always be people trying to break rules so we figured we should always have staff online to watch out for them. We would interview people for staff positions to make sure they were a fine fit and we did our best finding people from different time-zones so we could try to have the servers covered nearly 24/7.
 
 
 {% include gallery caption="Some images of the latest build of the site" %}

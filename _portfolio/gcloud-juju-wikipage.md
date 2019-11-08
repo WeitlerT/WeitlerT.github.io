@@ -1,6 +1,6 @@
 ---
 title: "Google Cloud - Wiki Page WIP"
-excerpt: "A project for a telecommunications course. Hosting a public wiki page using Google Cloud, Juju, and Linux."
+excerpt: "An assignment we had for our telecommunications course. Hosting a public wiki page using Google Cloud, Juju, and Linux."
 header:
   image: #Image for the top goes here
   teaser: "https://it-positive.co.uk/wp-content/uploads/2018/06/cloud-technology.jpg"
@@ -8,20 +8,23 @@ sidebar:
   - title: "Role"
     image: "https://it-positive.co.uk/wp-content/uploads/2018/06/cloud-technology.jpg"
     image_alt: "logo"
-    text: "Scripting, Training Images, iOS Development"
+    text: "Cloud setup and Linux commands"
   - title: "Responsibilities"
-    text: "For this project my partner and I worked together on almost all tasks. This included gathering the images for training, training the model, and programming the car to actually drive/stop."
+    text: "Setting up Google Cloud with the juju project through the Linux console as well as the wiki page."
   - title: "Technologies"
-    text: "Matlab, Raspberry Pi"
+    text: "Linux, Google Cloud, Juju"
 gallery:
-  - url: /assets/images/selfdriving.jpg
-    image_path: /assets/images/selfdriving.jpg
-    alt: "Self Driving"
+  - url: /assets/images/Wikipage/wiki1.png
+    image_path: /assets/images/Wikipage/wiki1.png
+    alt: #"Self Driving"
+  - url: /assets/images/Wikipage/wiki2.png
+    image_path: /assets/images/Wikipage/wiki2.png
+    alt: #"Self Driving"
 ---
 
-During our AI course we were tasked with building some type of project utilizing Matlab and AI/ML techologies. My partner Nick happened to have a Raspberry Pi car kit which we decided we could use for a small scale self-driving car project. It came equipped with a camera which we wanted to use to stream a live feed from the car to our laptop running Matlab. We decided we would attempt to have the car move around a track and stop if it found a boundary (in this case our boundry was just white sheets of paper).
 
-{% include gallery caption="Above is an image of the final product" %}
+
+{% include gallery caption="Screenshots from the juju interface as well as the created wiki page." %}
 
 We took a bunch of different images of the carpet in the lab we were working in as well as a bunch of images of paper on it. We made sure to take these pictures with the car camera because that would be the same view the car would have while driving. We used several dozen images to train our model and eventually had programmed the car to go and stop when it found a boundary. An image below shows what the car looked like. The box taped to the front of the car was used to mount the camera on because simply put we didn't have a huge budget for the project. For more details please check out the video below.
 

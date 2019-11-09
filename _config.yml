@@ -24,6 +24,9 @@ description              : "Mobile Computing Portfolio"
 url                      : "https://weitlert.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+head_scripts:
+  - https://code.jquery.com/jquery-3.2.1.min.js
+  - /assets/js/animate.js
 teaser                   : #"/assets/images/sheridan.png"
 logo                     : /assets/images/home.png
 masthead_title           : "Homepage"

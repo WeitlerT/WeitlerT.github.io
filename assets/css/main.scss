@@ -17,3 +17,10 @@
     max-height: 500px;
     object-fit: cover;
 }
+.scroll-animations {
+    visibility: hidden;
+}
+
+.animateVisible {
+    visibility: visible !important;
+}

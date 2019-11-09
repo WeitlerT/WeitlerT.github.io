@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-<h3 class="archive__subtitle" style="margin-top: 0px;"></h3><br />
+<h3 class="archive__subtitle" style="margin-top: 0px;"></h3>

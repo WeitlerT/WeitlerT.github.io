@@ -3,10 +3,10 @@ title: "iOS - Location Scouting WIP"
 excerpt: "A community I started with one of my best friends. The site was built from scratch, same goes with the forums."
 header:
   image: #Image for the top goes here
-  teaser: /assets/images/surfhorizon.jpg
+  teaser: /assets/images/LocationScout/loc1.png
 sidebar:
   - title: "Role"
-    image: /assets/images/surfhorizon.jpg
+    image: /assets/images/LocationScout/loc1.png
     image_alt: "logo"
     text: "Scripting, Training Images, iOS Development"
   - title: "Responsibilities"

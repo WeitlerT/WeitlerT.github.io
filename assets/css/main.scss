@@ -8,6 +8,5 @@
 @import "minimal-mistakes"; // main partials
 
 @media (min-width: 48em)
-.grid__item .archive__item-teaser {
-    max-height: none !important;
-}
+  .grid__item .archive__item-teaser
+    max-height: none !important

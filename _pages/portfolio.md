@@ -1,5 +1,5 @@
 ---
-title:
+title: My Experiences
 layout: collection
 permalink: /portfolio/
 collection: portfolio
@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-### My Experiences
+<h3 class="archive__subtitle"></h3>

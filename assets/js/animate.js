@@ -1,5 +1,6 @@
 $(document).ready(function() {
   // Check if element is scrolled into view
+  $(".grid__item").addClass("animated");
   function isScrolledIntoView(elem) {
     var docViewTop = $(window).scrollTop();
     var docViewBottom = docViewTop + $(window).height();
@@ -22,5 +23,5 @@ $(document).ready(function() {
   }
 
   refreshElemScroll();
-  $(".grid__item").addClass("animated");
+
 });

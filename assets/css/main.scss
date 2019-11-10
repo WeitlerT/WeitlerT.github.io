@@ -9,9 +9,14 @@
 
 @media (min-width: 48em)
 {
-.grid__item .archive__item-teaser {
-    max-height: none !important;
-}
+  @media (min-width: 48em) {
+  .grid__item .archive__item-teaser {
+      max-height: none !important;
+  }
+  .grid__item {
+      height: 392px;
+  }
+  }
 }
 .page__hero-image {
     max-height: 500px;
@@ -23,7 +28,4 @@
 
 .animateVisible {
     visibility: visible !important;
-}
-.grid__item {
-    height: 392px;
 }

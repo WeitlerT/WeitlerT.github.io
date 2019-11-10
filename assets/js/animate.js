@@ -22,4 +22,5 @@ $(document).ready(function() {
   }
 
   refreshElemScroll();
+  $(".grid__item").addClass("animated");
 });

@@ -7,7 +7,7 @@ $(document).ready(function() {
 
       var elemTop = $(elem).offset().top;
       var elemBottom = elemTop + $(elem).height();
-      var elemBottom2 = elemTop + $(elem).height() - 10;
+      var elemBottom2 = elemTop + $(elem).height() - 20;
 
       return (((elemBottom <= docViewBottom) && (elemTop >= docViewTop))) || (((elemBottom2 <= docViewBottom) && (elemTop >= docViewTop)));
     }

@@ -10,7 +10,7 @@ sidebar:
     image_alt: "Q4 logo"
     text: "QA Tester - Web"
   - title: "Responsibilities"
-    text: "Working closely with a team to ensure the best quality end product reaches the client."
+    text: "Working closely with a team to ensure the highest quality product reaches the client."
   - title: "Technologies"
     text: "Bugherd, Essential Accessibility, Testrail, Testcafe, HTML/CSS/Javascript, Slack, Zoom, Asana, Jira, Browserstack, Salesforce, Mavenlink, Confluence, Google suite, VS Code"
 ---

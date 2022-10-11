@@ -3,10 +3,10 @@ title: "Google Cloud - Wiki Page"
 excerpt: "An assignment we had for our telecommunications course. Hosting a public wiki page using Google Cloud, Juju, and Linux."
 header:
   image: #Image for the top goes here
-  teaser: "https://it-positive.co.uk/wp-content/uploads/2018/06/cloud-technology.jpg"
+  teaser: "https://www.freecodecamp.org/news/content/images/2020/10/gcp.png"
 sidebar:
   - title: "Role"
-    image: "https://it-positive.co.uk/wp-content/uploads/2018/06/cloud-technology.jpg"
+    image: "https://www.freecodecamp.org/news/content/images/2020/10/gcp.png"
     image_alt: "logo"
     text: "Cloud setup and Linux commands"
   - title: "Responsibilities"

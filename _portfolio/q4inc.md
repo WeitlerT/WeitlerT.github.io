@@ -1,6 +1,6 @@
 ---
 title: "Q4 Inc. - QA"
-excerpt: "Nearly 3 years working at Q4 I learnt a lot about web testing, web dev,  and agile development just to name a few things."
+excerpt: "Nearly 3 years working at Q4 I learnt a lot about web testing, web dev,  and agile development."
 header:
   image: #"https://s22.q4cdn.com/169602026/files/doc_downloads/logo/q4logo-acknowledgement.png"
   teaser: "https://s22.q4cdn.com/169602026/files/doc_downloads/logo/q4logo-acknowledgement.png"
